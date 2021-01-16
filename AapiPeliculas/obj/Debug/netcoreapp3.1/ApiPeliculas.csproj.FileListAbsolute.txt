@@ -56,8 +56,7 @@ C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\bin\Debug\netcoreapp
 C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\obj\Debug\netcoreapp3.1\ApiPeliculas.csprojAssemblyReference.cache
-C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\obj\Debug\netcoreapp3.1\ApiPeliculas.csproj.CoreCompileInputs.cache
-C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\obj\Debug\netcoreapp3.1\ApiPeliculas.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\obj\Debug\netcoreapp3.1\ApiPeliculas.dll
 C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\obj\Debug\netcoreapp3.1\ApiPeliculas.pdb
 C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\obj\Debug\netcoreapp3.1\ApiPeliculas.genruntimeconfig.cache
+C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\bin\Debug\netcoreapp3.1\AutoMapper.dll
