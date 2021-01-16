@@ -35,6 +35,7 @@ namespace AapiPeliculas
             //Configuracion de inyeccion de dependencias para la base de datos
             services.AddDbContext<ApplicationDbContext>(Options=>Options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped<ICategoryRepository, CategoriaRepository>();
+            services.AddScoped<IPeliculaRepository, PeliculaRepository>();
             services.AddAutoMapper(typeof(PeliculasMappers));
             services.AddControllers();
         }
