@@ -60,3 +60,6 @@ C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\obj\Debug\netcoreapp
 C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\obj\Debug\netcoreapp3.1\ApiPeliculas.pdb
 C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\obj\Debug\netcoreapp3.1\ApiPeliculas.genruntimeconfig.cache
 C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\obj\Debug\netcoreapp3.1\ApiPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\mgong\Documents\Github\AapiPeliculas\AapiPeliculas\obj\Debug\netcoreapp3.1\ApiPeliculas.MvcApplicationPartsAssemblyInfo.cache

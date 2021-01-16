@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 namespace ApiPeliculas.PeliculasMapper
 {
     //Se vincula el DTO con el modelo Categoria con Mapper
-    public class PeliculasMapper : Profile
+    public class PeliculasMappers : Profile
     {
-        public PeliculasMapper()
+        public PeliculasMappers()
         {
             CreateMap<Categoria, CategoriaDto>().ReverseMap();
         }

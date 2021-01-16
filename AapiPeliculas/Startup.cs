@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AapiPeliculas.Data;
+using ApiPeliculas.PeliculasMapper;
 using ApiPeliculas.Repository;
 using ApiPeliculas.Repository.IRepository;
+using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -33,6 +35,7 @@ namespace AapiPeliculas
             //Configuracion de inyeccion de dependencias para la base de datos
             services.AddDbContext<ApplicationDbContext>(Options=>Options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped<ICategoryRepository, CategoriaRepository>();
+            services.AddAutoMapper(typeof(PeliculasMappers));
             services.AddControllers();
         }
 
