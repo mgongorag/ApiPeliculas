@@ -1,6 +1,7 @@
 ﻿using AapiPeliculas.Data;
-using AapiPeliculas.Models;
+using AapiPeliculas.Models.Dtos;
 using ApiPeliculas.Repository.IRepository;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,4 +1,5 @@
 ﻿using AapiPeliculas.Models;
+using AapiPeliculas.Models.Dtos;
 using ApiPeliculas.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -17,6 +18,7 @@ namespace AapiPeliculas.Data
         //DBSet sirve para que se cree la tabla en las migraciones
         public DbSet<Categoria> Categoria { get; set; }
         public DbSet<Pelicula> Pelicula{ get; set; }
+        public DbSet<Usuario> Usuario { get; set; }
 
     }
 }

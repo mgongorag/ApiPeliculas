@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using AapiPeliculas.Models;
 using AapiPeliculas.Models.Dtos;
+using ApiPeliculas.Models.Dtos;
 using ApiPeliculas.Repository.IRepository;
 using AutoMapper;
 using Microsoft.AspNetCore.Http;
@@ -51,6 +52,7 @@ namespace ApiPeliculas.Controllers
             
 
         }
+
         [HttpPost]
         public IActionResult CrearCategoria([FromBody] CategoriaDto categoriaDto)
         {
